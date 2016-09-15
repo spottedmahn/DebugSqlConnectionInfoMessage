@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DebugModel2" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DebugEntitiesFails" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="TestPrints" ReturnType="Collection(DebugModel2.TestPrints_Result)" />
+  </EntityContainer>
+  <ComplexType Name="TestPrints_Result">
+    <Property Type="Int32" Name="Test_Column" Nullable="false" />
+  </ComplexType>
+</Schema>

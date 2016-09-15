@@ -1,0 +1,5 @@
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Database1\bin\Debug\Database1.dacpac
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Database1\bin\Debug\Database1.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Database1\bin\Debug\Database1.pdb
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Database1\obj\Debug\Database1.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Database1\obj\Debug\Database1.pdb

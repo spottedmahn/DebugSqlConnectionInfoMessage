@@ -1,0 +1,15 @@
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\Helper.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\Model.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\EntityFramework.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\Helper.pdb
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\Model.pdb
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\EntityFramework.xml
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml

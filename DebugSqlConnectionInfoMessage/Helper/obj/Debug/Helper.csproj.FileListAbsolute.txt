@@ -1,0 +1,12 @@
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\Helper.dll.config
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\Helper.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\Helper.pdb
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\EntityFramework.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\Model.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\Model.pdb
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\EntityFramework.xml
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\obj\Debug\Helper.dll
+C:\Users\mdepouw.IDC\Desktop\GitHub\DebugSqlConnectionInfoMessage\DebugSqlConnectionInfoMessage\Helper\obj\Debug\Helper.pdb
